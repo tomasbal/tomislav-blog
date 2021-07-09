@@ -2,7 +2,7 @@
   "title": "Tomislav Balabanov - Tech Blog",
   "author": "Tomislav Balabanov",
   "headerTitle": "Tomislav Balabanov",
-  "description": "Blog about web development, cyber security, marketing and marketing automation ",
+  "description": "Blog about Web Development, Jamstack, Software Development, Cyber Security, Marketing and Marketing Automation ",
   "language": "en-us",
   "siteUrl": "https://blog.tomislavbalabanov.me",
   "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
@@ -13,6 +13,6 @@
   "twitter": "https://twitter.com/Twitter",
   "facebook": "https://facebook.com",
   "youtube": "https://youtube.com",
-  "linkedin": "https://www.linkedin.com",
+  "linkedin": "https://www.linkedin.com/in/tomislavbalabanov/",
   "locale": "en-US"
 }
