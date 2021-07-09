@@ -53,7 +53,7 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                       width="38px"
                       height="38px"
                       alt="avatar"
-                      className="w-10 h-10 rounded-full"
+                      className="w-10 h-10 rounded-full object-cover"
                     />
                     <dl className="text-sm font-medium leading-5 whitespace-nowrap">
                       <dt className="sr-only">Name</dt>
