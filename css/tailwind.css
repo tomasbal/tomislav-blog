@@ -17,7 +17,3 @@
 html {
   scroll-behavior: smooth;
 }
-
-html.light #logo g{
-  fill:#111827 !important;
-}
