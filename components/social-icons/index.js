@@ -11,9 +11,7 @@ const components = {
   mail: Mail,
   github: Github,
   facebook: Facebook,
-  youtube: Youtube,
   linkedin: Linkedin,
-  twitter: Twitter,
 }
 
 const SocialIcon = ({ kind, href, size = 8 }) => {
@@ -23,7 +21,7 @@ const SocialIcon = ({ kind, href, size = 8 }) => {
 
   return (
     <a
-      className="text-sm text-gray-500 transition hover:text-gray-600"
+      className="text-sm text-gray-500 transition hover:text-gray-600 "
       target="_blank"
       rel="noopener noreferrer"
       href={href}
