@@ -5,6 +5,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="apple-touch-icon" sizes="76x76" href="/static/favicons/apple-touch-icon.png" />
+
           <link
             rel="icon"
             type="image/png"
@@ -32,6 +33,17 @@ class MyDocument extends Document {
             href="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css"
             integrity="sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc"
             crossOrigin="anonymous"
+          />
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-32927754-3" />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', '[Tracking ID]', { page_path: window.location.pathname });
+            `,
+            }}
           />
         </Head>
         <body className="antialiased text-black bg-white dark:bg-gray-900 dark:text-white">
