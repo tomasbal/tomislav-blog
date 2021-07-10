@@ -17,3 +17,7 @@
 html {
   scroll-behavior: smooth;
 }
+
+html.light .logo-color {
+  fill: #f3f4f6 !important;
+}
