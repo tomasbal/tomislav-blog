@@ -4,14 +4,10 @@ title: 'How to use React Context effectively'
 date: '2021-06-05'
 author: 'Kent C. Dodds'
 draft: false
-description: '_How to create and expose React Context providers and consumers_'
+summary: '_How to create and expose React Context providers and consumers_'
 categories:
   - 'react'
-keywords:
-  - 'react'
-  - 'javascript'
-  - 'typescript'
-  - 'react context'
+tags: ['react', 'javascript', 'typescript', 'react context']
 images: 'https://res.cloudinary.com/kentcdodds-com/image/upload/v1625032892/kentcdodds.com/content/blog/how-to-use-react-context-effectively/banner.jpg'
 bannerCredit:
   'Photo by [Pathum Danthanarayana](https://unsplash.com/photos/KLbUohEjb04)'
