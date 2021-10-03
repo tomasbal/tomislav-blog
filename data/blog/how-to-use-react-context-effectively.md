@@ -1,7 +1,7 @@
 ---
 slug: 'how-to-use-react-context-effectively'
 title: 'How to use React Context effectively'
-date: '2021-06-05'
+date: '2021-03-10'
 author: 'Kent C. Dodds'
 draft: false
 summary: '_How to create and expose React Context providers and consumers_'
