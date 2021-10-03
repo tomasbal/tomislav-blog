@@ -1,5 +1,5 @@
 ---
-slug: 'how-to-use-react-context-effectively'
+slug: 'how-to-use-react-context-effectively-macedonian'
 title: 'How to use React Context effectively'
 date: '2021-10-03'
 author: 'Kent C. Dodds'
