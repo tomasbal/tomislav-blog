@@ -1,10 +1,10 @@
 ---
 slug: 'how-to-use-react-context-effectively'
 title: 'How to use React Context effectively'
-date: '2021-03-10'
+date: '2021-10-03'
 author: 'Kent C. Dodds'
 draft: false
-summary: '_How to create and expose React Context providers and consumers_'
+summary: 'How to create and expose React Context providers and consumers_'
 categories:
   - 'react'
 tags: ['react', 'javascript', 'typescript', 'react context']
@@ -15,6 +15,7 @@ bannerCredit:
 
 Current Available Translations:
 
+- [Macedonian](https://blog.tomislavbalabanov.me/blog/how-to-use-react-context-effectively-mk)
 - [Russian](https://habr.com/ru/post/522896/)
 - [Korean](https://goongoguma.github.io/2021/06/05/How-to-use-React-Context-effectively/)
 - [Spanish](https://dev.to/jereef/como-usar-react-context-de-manera-efectiva-1h6l)
