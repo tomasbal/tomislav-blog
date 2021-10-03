@@ -5,7 +5,7 @@
   "description": "Blog about Web Development, Jamstack, Software Development, Cyber Security, Marketing and Marketing Automation ",
   "language": "en-us",
   "siteUrl": "https://blog.tomislavbalabanov.me",
-  "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  "siteRepo": "https://github.com/tomasbal/tomislav-blog",
   "image": "/static/images/avatar.jpg",
   "socialBanner": "/static/images/twitter-card.png",
   "email": "contact@tomislavbalabanov.me",
